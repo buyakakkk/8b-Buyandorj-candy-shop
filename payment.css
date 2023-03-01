@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 100%;
+    height: 100vh;
+    background-color: aquamarine;
+    display: flex;
+}
+.left{
+    width: 90%;
+    height: 100vh;
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.paymentbody{
+    width: 60%;
+    height: 70%;
+    background-color: red;
+}
+.top{
+    width: 100%;
+    height: 15%;
+    background-color: aliceblue; 
+    display: flex;
+}
+.back{
+    width: 10%;
+    height: 100%;
+    background-color: coral;
+}
+.menu{
+    width: 10%;
+    height: 100%;
+    background-color: blueviolet;
+}
+.mid{
+    width: 100%;
+    height: 42.5%;
+    background-color: violet;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} 
+.namec{
+    width: 80%;
+    height: 75%;
+    background-color: springgreen;
+}
+.text1{
+    width: 100%;
+    height: 50%;
+    background-color: snow;
+}
+.text2{
+    width: 100%;
+    height: 50%;
+    background-color: rgb(161, 77, 77);
+}
+.down{
+    width: 100%;
+    height: 42.5%;
+    background-color: rgb(160, 153, 160);
+    display: flex;
+}
+.dleft{
+    width: 50%;
+    height: 100%;
+    background-color: salmon;
+}
+.dltop{
+    width: 100%;
+    height: 50%;
+    background-color: rosybrown;
+}
+.dldown{
+    width: 100%;
+    height: 50%;
+    background-color: rgb(75, 65, 65);
+}
+.dright{
+    width: 50%;
+    height: 100%;
+    background-color: rgb(145, 38, 26);
+}
+.drtop{
+    width: 100%;
+    height: 50%;
+    background-color: rgb(90, 56, 56);
+}
+.drdown{
+    width: 100%;
+    height: 50%;
+    background-color: rgb(253, 224, 224);
+}
+.right{
+    width: 10%;
+    height: 100vh;
+    background-color: tomato;
+    display: flex;
+    justify-content: flex-end;
+}
+.logo{
+    width: 100%;
+    height: 20%;
+    background-color: steelblue;
+}
